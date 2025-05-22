@@ -1,0 +1,14 @@
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.AssemblyInfoInputs.cache
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.AssemblyInfo.cs
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.csproj.CoreCompileInputs.cache
+/home/samay-jain/Learning/bin/Debug/net8.0/Learning
+/home/samay-jain/Learning/bin/Debug/net8.0/Learning.deps.json
+/home/samay-jain/Learning/bin/Debug/net8.0/Learning.runtimeconfig.json
+/home/samay-jain/Learning/bin/Debug/net8.0/Learning.dll
+/home/samay-jain/Learning/bin/Debug/net8.0/Learning.pdb
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.dll
+/home/samay-jain/Learning/obj/Debug/net8.0/refint/Learning.dll
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.pdb
+/home/samay-jain/Learning/obj/Debug/net8.0/Learning.genruntimeconfig.cache
+/home/samay-jain/Learning/obj/Debug/net8.0/ref/Learning.dll
